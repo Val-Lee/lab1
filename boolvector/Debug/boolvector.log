@@ -1,0 +1,18 @@
+﻿Сборка начата 23.09.2015 0:51:53.
+     1>Проект "H:\oop\boolvector\boolvector\boolvector.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\boolvector.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         E:\study\Новая папка\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\oop\boolvector\Debug\boolvector.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\oop\boolvector\Debug\boolvector.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\oop\boolvector\Debug\boolvector.lib" /MACHINE:X86 Debug\BoolVector.obj
+         Debug\main.obj
+         boolvector.vcxproj -> H:\oop\boolvector\Debug\boolvector.exe
+       FinalizeBuildStatus:
+         Файл "Debug\boolvector.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\boolvector.lastbuildstate".
+     1>Построение проекта "H:\oop\boolvector\boolvector\boolvector.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:11.00
